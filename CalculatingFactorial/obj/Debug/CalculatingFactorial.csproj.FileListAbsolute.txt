@@ -1,0 +1,7 @@
+D:\C#\Training.NET\CalculatingFactorial\bin\Debug\CalculatingFactorial.exe.config
+D:\C#\Training.NET\CalculatingFactorial\bin\Debug\CalculatingFactorial.exe
+D:\C#\Training.NET\CalculatingFactorial\bin\Debug\CalculatingFactorial.pdb
+D:\C#\Training.NET\CalculatingFactorial\obj\Debug\CalculatingFactorial.csprojAssemblyReference.cache
+D:\C#\Training.NET\CalculatingFactorial\obj\Debug\CalculatingFactorial.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\CalculatingFactorial\obj\Debug\CalculatingFactorial.exe
+D:\C#\Training.NET\CalculatingFactorial\obj\Debug\CalculatingFactorial.pdb

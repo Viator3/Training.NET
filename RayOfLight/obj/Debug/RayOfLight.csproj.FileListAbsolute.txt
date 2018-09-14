@@ -1,0 +1,6 @@
+D:\C#\Training.NET\RayOfLight\bin\Debug\RayOfLight.exe.config
+D:\C#\Training.NET\RayOfLight\bin\Debug\RayOfLight.exe
+D:\C#\Training.NET\RayOfLight\bin\Debug\RayOfLight.pdb
+D:\C#\Training.NET\RayOfLight\obj\Debug\RayOfLight.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\RayOfLight\obj\Debug\RayOfLight.exe
+D:\C#\Training.NET\RayOfLight\obj\Debug\RayOfLight.pdb

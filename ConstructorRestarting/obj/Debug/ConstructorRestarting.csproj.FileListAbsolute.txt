@@ -1,0 +1,7 @@
+D:\C#\Training.NET\ConstructorRestarting\bin\Debug\ConstructorRestarting.exe.config
+D:\C#\Training.NET\ConstructorRestarting\bin\Debug\ConstructorRestarting.exe
+D:\C#\Training.NET\ConstructorRestarting\bin\Debug\ConstructorRestarting.pdb
+D:\C#\Training.NET\ConstructorRestarting\obj\Debug\ConstructorRestarting.csprojAssemblyReference.cache
+D:\C#\Training.NET\ConstructorRestarting\obj\Debug\ConstructorRestarting.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\ConstructorRestarting\obj\Debug\ConstructorRestarting.exe
+D:\C#\Training.NET\ConstructorRestarting\obj\Debug\ConstructorRestarting.pdb

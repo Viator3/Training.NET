@@ -1,0 +1,7 @@
+D:\C#\Training.NET\ArrayTest\bin\Debug\ArrayTest.exe.config
+D:\C#\Training.NET\ArrayTest\bin\Debug\ArrayTest.exe
+D:\C#\Training.NET\ArrayTest\bin\Debug\ArrayTest.pdb
+D:\C#\Training.NET\ArrayTest\obj\Debug\ArrayTest.csprojAssemblyReference.cache
+D:\C#\Training.NET\ArrayTest\obj\Debug\ArrayTest.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\ArrayTest\obj\Debug\ArrayTest.exe
+D:\C#\Training.NET\ArrayTest\obj\Debug\ArrayTest.pdb

@@ -1,0 +1,6 @@
+D:\C#\Training.NET\EnteringCharacterString\bin\Debug\EnteringCharacterString.exe.config
+D:\C#\Training.NET\EnteringCharacterString\bin\Debug\EnteringCharacterString.exe
+D:\C#\Training.NET\EnteringCharacterString\bin\Debug\EnteringCharacterString.pdb
+D:\C#\Training.NET\EnteringCharacterString\obj\Debug\EnteringCharacterString.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\EnteringCharacterString\obj\Debug\EnteringCharacterString.exe
+D:\C#\Training.NET\EnteringCharacterString\obj\Debug\EnteringCharacterString.pdb

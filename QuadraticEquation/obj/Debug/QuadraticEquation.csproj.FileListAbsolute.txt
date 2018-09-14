@@ -1,0 +1,6 @@
+D:\C#\Training.NET\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+D:\C#\Training.NET\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+D:\C#\Training.NET\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+D:\C#\Training.NET\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+D:\C#\Training.NET\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

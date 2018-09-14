@@ -1,0 +1,7 @@
+D:\C#\Training.NET\Beep\bin\Debug\Beep.exe.config
+D:\C#\Training.NET\Beep\bin\Debug\Beep.exe
+D:\C#\Training.NET\Beep\bin\Debug\Beep.pdb
+D:\C#\Training.NET\Beep\obj\Debug\Beep.csprojAssemblyReference.cache
+D:\C#\Training.NET\Beep\obj\Debug\Beep.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\Beep\obj\Debug\Beep.exe
+D:\C#\Training.NET\Beep\obj\Debug\Beep.pdb

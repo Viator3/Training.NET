@@ -1,0 +1,7 @@
+D:\C#\Training.NET\UsingEnum\bin\Debug\UsingEnum.exe.config
+D:\C#\Training.NET\UsingEnum\bin\Debug\UsingEnum.exe
+D:\C#\Training.NET\UsingEnum\bin\Debug\UsingEnum.pdb
+D:\C#\Training.NET\UsingEnum\obj\Debug\UsingEnum.csprojAssemblyReference.cache
+D:\C#\Training.NET\UsingEnum\obj\Debug\UsingEnum.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\UsingEnum\obj\Debug\UsingEnum.exe
+D:\C#\Training.NET\UsingEnum\obj\Debug\UsingEnum.pdb

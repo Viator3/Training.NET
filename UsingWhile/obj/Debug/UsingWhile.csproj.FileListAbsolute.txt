@@ -1,0 +1,7 @@
+D:\C#\Training.NET\UsingWhile\bin\Debug\UsingWhile.exe.config
+D:\C#\Training.NET\UsingWhile\bin\Debug\UsingWhile.exe
+D:\C#\Training.NET\UsingWhile\bin\Debug\UsingWhile.pdb
+D:\C#\Training.NET\UsingWhile\obj\Debug\UsingWhile.csprojAssemblyReference.cache
+D:\C#\Training.NET\UsingWhile\obj\Debug\UsingWhile.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\UsingWhile\obj\Debug\UsingWhile.exe
+D:\C#\Training.NET\UsingWhile\obj\Debug\UsingWhile.pdb

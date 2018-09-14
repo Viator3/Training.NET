@@ -1,0 +1,6 @@
+D:\C#\Training.NET\EnteringPointInCircle\bin\Debug\EnteringPointInCircle.exe.config
+D:\C#\Training.NET\EnteringPointInCircle\bin\Debug\EnteringPointInCircle.exe
+D:\C#\Training.NET\EnteringPointInCircle\bin\Debug\EnteringPointInCircle.pdb
+D:\C#\Training.NET\EnteringPointInCircle\obj\Debug\EnteringPointInCircle.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\EnteringPointInCircle\obj\Debug\EnteringPointInCircle.exe
+D:\C#\Training.NET\EnteringPointInCircle\obj\Debug\EnteringPointInCircle.pdb

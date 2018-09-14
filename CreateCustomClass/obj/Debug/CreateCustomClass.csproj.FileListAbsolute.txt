@@ -1,0 +1,6 @@
+D:\C#\Training.NET\CreateCustomClass\bin\Debug\CreateCustomClass.exe.config
+D:\C#\Training.NET\CreateCustomClass\bin\Debug\CreateCustomClass.exe
+D:\C#\Training.NET\CreateCustomClass\bin\Debug\CreateCustomClass.pdb
+D:\C#\Training.NET\CreateCustomClass\obj\Debug\CreateCustomClass.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\CreateCustomClass\obj\Debug\CreateCustomClass.exe
+D:\C#\Training.NET\CreateCustomClass\obj\Debug\CreateCustomClass.pdb

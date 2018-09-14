@@ -1,0 +1,7 @@
+D:\C#\Training.NET\UsingFor\bin\Debug\UsingFor.exe.config
+D:\C#\Training.NET\UsingFor\bin\Debug\UsingFor.exe
+D:\C#\Training.NET\UsingFor\bin\Debug\UsingFor.pdb
+D:\C#\Training.NET\UsingFor\obj\Debug\UsingFor.csprojAssemblyReference.cache
+D:\C#\Training.NET\UsingFor\obj\Debug\UsingFor.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\UsingFor\obj\Debug\UsingFor.exe
+D:\C#\Training.NET\UsingFor\obj\Debug\UsingFor.pdb

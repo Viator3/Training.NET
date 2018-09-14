@@ -1,0 +1,6 @@
+D:\C#\Training.NET\StaticsMethods\bin\Debug\StaticsMethods.exe.config
+D:\C#\Training.NET\StaticsMethods\bin\Debug\StaticsMethods.exe
+D:\C#\Training.NET\StaticsMethods\bin\Debug\StaticsMethods.pdb
+D:\C#\Training.NET\StaticsMethods\obj\Debug\StaticsMethods.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\StaticsMethods\obj\Debug\StaticsMethods.exe
+D:\C#\Training.NET\StaticsMethods\obj\Debug\StaticsMethods.pdb

@@ -1,0 +1,6 @@
+D:\C#\Training.NET\TernaryOperator\bin\Debug\TernaryOperator.exe.config
+D:\C#\Training.NET\TernaryOperator\bin\Debug\TernaryOperator.exe
+D:\C#\Training.NET\TernaryOperator\bin\Debug\TernaryOperator.pdb
+D:\C#\Training.NET\TernaryOperator\obj\Debug\TernaryOperator.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\TernaryOperator\obj\Debug\TernaryOperator.exe
+D:\C#\Training.NET\TernaryOperator\obj\Debug\TernaryOperator.pdb

@@ -1,0 +1,6 @@
+D:\C#\Training.NET\WorkingArrays2\bin\Debug\WorkingArrays2.exe.config
+D:\C#\Training.NET\WorkingArrays2\bin\Debug\WorkingArrays2.exe
+D:\C#\Training.NET\WorkingArrays2\bin\Debug\WorkingArrays2.pdb
+D:\C#\Training.NET\WorkingArrays2\obj\Debug\WorkingArrays2.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\WorkingArrays2\obj\Debug\WorkingArrays2.exe
+D:\C#\Training.NET\WorkingArrays2\obj\Debug\WorkingArrays2.pdb

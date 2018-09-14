@@ -1,0 +1,7 @@
+D:\C#\Training.NET\LiftingCapacity\bin\Debug\LiftingCapacity.exe.config
+D:\C#\Training.NET\LiftingCapacity\bin\Debug\LiftingCapacity.exe
+D:\C#\Training.NET\LiftingCapacity\bin\Debug\LiftingCapacity.pdb
+D:\C#\Training.NET\LiftingCapacity\obj\Debug\LiftingCapacity.csprojAssemblyReference.cache
+D:\C#\Training.NET\LiftingCapacity\obj\Debug\LiftingCapacity.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\LiftingCapacity\obj\Debug\LiftingCapacity.exe
+D:\C#\Training.NET\LiftingCapacity\obj\Debug\LiftingCapacity.pdb

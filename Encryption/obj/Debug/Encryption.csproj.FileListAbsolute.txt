@@ -1,0 +1,7 @@
+D:\C#\Training.NET\Encryption\bin\Debug\Encryption.exe.config
+D:\C#\Training.NET\Encryption\bin\Debug\Encryption.exe
+D:\C#\Training.NET\Encryption\bin\Debug\Encryption.pdb
+D:\C#\Training.NET\Encryption\obj\Debug\Encryption.csprojAssemblyReference.cache
+D:\C#\Training.NET\Encryption\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\Encryption\obj\Debug\Encryption.exe
+D:\C#\Training.NET\Encryption\obj\Debug\Encryption.pdb

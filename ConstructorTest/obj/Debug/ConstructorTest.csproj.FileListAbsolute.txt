@@ -1,0 +1,7 @@
+D:\C#\Training.NET\ConstructorTest\bin\Debug\ConstructorTest.exe.config
+D:\C#\Training.NET\ConstructorTest\bin\Debug\ConstructorTest.exe
+D:\C#\Training.NET\ConstructorTest\bin\Debug\ConstructorTest.pdb
+D:\C#\Training.NET\ConstructorTest\obj\Debug\ConstructorTest.csprojAssemblyReference.cache
+D:\C#\Training.NET\ConstructorTest\obj\Debug\ConstructorTest.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\ConstructorTest\obj\Debug\ConstructorTest.exe
+D:\C#\Training.NET\ConstructorTest\obj\Debug\ConstructorTest.pdb

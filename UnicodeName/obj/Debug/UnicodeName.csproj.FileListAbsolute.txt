@@ -1,0 +1,6 @@
+D:\C#\Training.NET\UnicodeName\bin\Debug\UnicodeName.exe.config
+D:\C#\Training.NET\UnicodeName\bin\Debug\UnicodeName.exe
+D:\C#\Training.NET\UnicodeName\bin\Debug\UnicodeName.pdb
+D:\C#\Training.NET\UnicodeName\obj\Debug\UnicodeName.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\UnicodeName\obj\Debug\UnicodeName.exe
+D:\C#\Training.NET\UnicodeName\obj\Debug\UnicodeName.pdb

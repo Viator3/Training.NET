@@ -1,0 +1,6 @@
+D:\C#\Training.NET\UsingSwitch\bin\Debug\UsingSwitch.exe.config
+D:\C#\Training.NET\UsingSwitch\bin\Debug\UsingSwitch.exe
+D:\C#\Training.NET\UsingSwitch\bin\Debug\UsingSwitch.pdb
+D:\C#\Training.NET\UsingSwitch\obj\Debug\UsingSwitch.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\UsingSwitch\obj\Debug\UsingSwitch.exe
+D:\C#\Training.NET\UsingSwitch\obj\Debug\UsingSwitch.pdb
