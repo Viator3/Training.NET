@@ -1,0 +1,6 @@
+D:\C#\Training.NET\UserAuthorization\bin\Debug\UserAuthorization.exe.config
+D:\C#\Training.NET\UserAuthorization\bin\Debug\UserAuthorization.exe
+D:\C#\Training.NET\UserAuthorization\bin\Debug\UserAuthorization.pdb
+D:\C#\Training.NET\UserAuthorization\obj\Debug\UserAuthorization.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\UserAuthorization\obj\Debug\UserAuthorization.exe
+D:\C#\Training.NET\UserAuthorization\obj\Debug\UserAuthorization.pdb

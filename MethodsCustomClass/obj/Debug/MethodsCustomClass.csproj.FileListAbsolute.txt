@@ -1,0 +1,7 @@
+D:\C#\Training.NET\MethodsCustomClass\bin\Debug\MethodsCustomClass.exe.config
+D:\C#\Training.NET\MethodsCustomClass\bin\Debug\MethodsCustomClass.exe
+D:\C#\Training.NET\MethodsCustomClass\bin\Debug\MethodsCustomClass.pdb
+D:\C#\Training.NET\MethodsCustomClass\obj\Debug\MethodsCustomClass.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\MethodsCustomClass\obj\Debug\MethodsCustomClass.exe
+D:\C#\Training.NET\MethodsCustomClass\obj\Debug\MethodsCustomClass.pdb
+D:\C#\Training.NET\MethodsCustomClass\obj\Debug\MethodsCustomClass.csprojAssemblyReference.cache

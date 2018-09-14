@@ -1,0 +1,7 @@
+D:\C#\Training.NET\GetSetTest\bin\Debug\GetSetTest.exe.config
+D:\C#\Training.NET\GetSetTest\bin\Debug\GetSetTest.exe
+D:\C#\Training.NET\GetSetTest\bin\Debug\GetSetTest.pdb
+D:\C#\Training.NET\GetSetTest\obj\Debug\GetSetTest.csprojAssemblyReference.cache
+D:\C#\Training.NET\GetSetTest\obj\Debug\GetSetTest.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\GetSetTest\obj\Debug\GetSetTest.exe
+D:\C#\Training.NET\GetSetTest\obj\Debug\GetSetTest.pdb
