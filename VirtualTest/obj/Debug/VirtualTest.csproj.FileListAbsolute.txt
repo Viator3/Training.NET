@@ -1,0 +1,7 @@
+D:\C#\Training.NET\VirtualTest\bin\Debug\VirtualTest.exe.config
+D:\C#\Training.NET\VirtualTest\bin\Debug\VirtualTest.exe
+D:\C#\Training.NET\VirtualTest\bin\Debug\VirtualTest.pdb
+D:\C#\Training.NET\VirtualTest\obj\Debug\VirtualTest.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\VirtualTest\obj\Debug\VirtualTest.exe
+D:\C#\Training.NET\VirtualTest\obj\Debug\VirtualTest.pdb
+D:\C#\Training.NET\VirtualTest\obj\Debug\VirtualTest.csprojAssemblyReference.cache
