@@ -1,0 +1,7 @@
+D:\C#\Training.NET\StructTest\bin\Debug\StructTest.exe.config
+D:\C#\Training.NET\StructTest\bin\Debug\StructTest.exe
+D:\C#\Training.NET\StructTest\bin\Debug\StructTest.pdb
+D:\C#\Training.NET\StructTest\obj\Debug\StructTest.csprojAssemblyReference.cache
+D:\C#\Training.NET\StructTest\obj\Debug\StructTest.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\StructTest\obj\Debug\StructTest.exe
+D:\C#\Training.NET\StructTest\obj\Debug\StructTest.pdb

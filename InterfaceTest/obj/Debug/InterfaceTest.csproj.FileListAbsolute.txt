@@ -1,0 +1,7 @@
+D:\C#\Training.NET\InterfaceTest\bin\Debug\InterfaceTest.exe.config
+D:\C#\Training.NET\InterfaceTest\bin\Debug\InterfaceTest.exe
+D:\C#\Training.NET\InterfaceTest\bin\Debug\InterfaceTest.pdb
+D:\C#\Training.NET\InterfaceTest\obj\Debug\InterfaceTest.csprojAssemblyReference.cache
+D:\C#\Training.NET\InterfaceTest\obj\Debug\InterfaceTest.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\InterfaceTest\obj\Debug\InterfaceTest.exe
+D:\C#\Training.NET\InterfaceTest\obj\Debug\InterfaceTest.pdb

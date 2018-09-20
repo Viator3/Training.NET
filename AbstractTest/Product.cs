@@ -1,8 +1,5 @@
 ﻿using System;
 
-//Create several classes of inherited from one abstract parent.
-//Create an abstract method in the parent class, implement this method in the child classes.
-
 namespace AbstractTest
 {
     abstract class Product
