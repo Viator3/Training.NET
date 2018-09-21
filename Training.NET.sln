@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceTest", "InterfaceT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructTest", "StructTest\StructTest.csproj", "{A6423AAE-05F9-4E09-8953-877B41C99AC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeconstructTest", "DeconstructTest\DeconstructTest.csproj", "{5A85EC1A-36BE-4F9D-B0F3-48E1D44808D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -239,6 +241,10 @@ Global
 		{A6423AAE-05F9-4E09-8953-877B41C99AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6423AAE-05F9-4E09-8953-877B41C99AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6423AAE-05F9-4E09-8953-877B41C99AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A85EC1A-36BE-4F9D-B0F3-48E1D44808D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A85EC1A-36BE-4F9D-B0F3-48E1D44808D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A85EC1A-36BE-4F9D-B0F3-48E1D44808D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A85EC1A-36BE-4F9D-B0F3-48E1D44808D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -281,6 +287,7 @@ Global
 		{A5045357-8D28-40D5-99B1-51655E1C6A1D} = {9091D3E7-6B09-4537-9EE6-8C8FDA3593EB}
 		{94027C26-B124-4EC1-8B65-A6D99ED622EB} = {9091D3E7-6B09-4537-9EE6-8C8FDA3593EB}
 		{A6423AAE-05F9-4E09-8953-877B41C99AC7} = {9091D3E7-6B09-4537-9EE6-8C8FDA3593EB}
+		{5A85EC1A-36BE-4F9D-B0F3-48E1D44808D4} = {9091D3E7-6B09-4537-9EE6-8C8FDA3593EB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6C5BC9EA-4C98-48FE-B2D6-74DFE50D8305}
