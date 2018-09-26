@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5A85EC1A-36BE-4F9D-B0F3-48E1D44808D4}</ProjectGuid>
+    <ProjectGuid>{83AE6197-C5C1-4E8F-8D47-D52B0221245C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DeconstructTest</RootNamespace>
-    <AssemblyName>DeconstructTest</AssemblyName>
+    <RootNamespace>TuplesTest</RootNamespace>
+    <AssemblyName>TuplesTest</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -45,9 +45,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Human.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Table.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

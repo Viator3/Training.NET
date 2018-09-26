@@ -1,0 +1,10 @@
+D:\C#\Training.NET\TuplesTest\obj\Debug\TuplesTest.csprojAssemblyReference.cache
+D:\C#\Training.NET\TuplesTest\obj\Debug\TuplesTest.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\TuplesTest\bin\Debug\TuplesTest.exe.config
+D:\C#\Training.NET\TuplesTest\bin\Debug\TuplesTest.exe
+D:\C#\Training.NET\TuplesTest\bin\Debug\TuplesTest.pdb
+D:\C#\Training.NET\TuplesTest\bin\Debug\System.ValueTuple.dll
+D:\C#\Training.NET\TuplesTest\bin\Debug\System.ValueTuple.xml
+D:\C#\Training.NET\TuplesTest\obj\Debug\TuplesTest.csproj.CopyComplete
+D:\C#\Training.NET\TuplesTest\obj\Debug\TuplesTest.exe
+D:\C#\Training.NET\TuplesTest\obj\Debug\TuplesTest.pdb
