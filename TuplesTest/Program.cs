@@ -9,30 +9,30 @@ namespace TuplesTest
     {
         static void Main(string[] args)
         {
-            (int id, string name, double price)[] tables = {
-                (0, "a", 0.1),
-                (1, "b", 1.1),
-                (2, "c", 2.2),
-                (3, "d", 3.3),
-                (4, "e", 4.4)
+            Table[] tables = {
+                new Table { table = (0, "a", 0.1) },
+                new Table { table = (1, "b", 1.1) },
+                new Table { table = (2, "c", 2.2) },
+                new Table { table = (3, "d", 3.3) },
+                new Table { table = (4, "e", 4.4) }
             };
-
-            (long id, string name, double price)[] tablesLong = {
-                (300000000, "a1", 10.1),
-                (300000001, "b2", 21.1),
-                (300000002, "c3", 32.2),
-                (300000003, "d4", 43.3),
-                (300000004, "e5", 54.4)
+            
+            TableLong[] tablesLong = {
+                new TableLong { tableLong = (300000000, "a1", 10.1) },
+                new TableLong { tableLong =(300000001, "b2", 21.1) },
+                new TableLong { tableLong =(300000002, "c3", 32.2) },
+                new TableLong { tableLong =(300000003, "d4", 43.3) },
+                new TableLong { tableLong =(300000004, "e5", 54.4) }
             };
 
             for (int index = 0; index < tablesLong.Length; index++)
             {
-                tablesLong[index] = tables[index];
+                tablesLong[index].tableLong = tables[index].table;
             }
 
-            foreach ((long id, string name, double price) tableLong in tablesLong)
+            foreach (TableLong line in tablesLong)
             {
-                Console.WriteLine("id = {0}, name = {1}, price = {2}", tableLong.id, tableLong.name, tableLong.price);
+                Console.WriteLine("id = {0}, name = {1}, price = {2}", line.tableLong.id, line.tableLong.name, line.tableLong.price);
             }
 
             Console.ReadKey();
