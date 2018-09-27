@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 //There are two tables with several fields, the types of fields in the tables are different from each other, but comparable.
 //Use the tuple to rewrite the data from one table to another.
