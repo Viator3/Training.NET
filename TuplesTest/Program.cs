@@ -19,10 +19,10 @@ namespace TuplesTest
             
             TableLong[] tablesLong = {
                 new TableLong { tableLong = (300000000, "a1", 10.1) },
-                new TableLong { tableLong =(300000001, "b2", 21.1) },
-                new TableLong { tableLong =(300000002, "c3", 32.2) },
-                new TableLong { tableLong =(300000003, "d4", 43.3) },
-                new TableLong { tableLong =(300000004, "e5", 54.4) }
+                new TableLong { tableLong = (300000001, "b2", 21.1) },
+                new TableLong { tableLong = (300000002, "c3", 32.2) },
+                new TableLong { tableLong = (300000003, "d4", 43.3) },
+                new TableLong { tableLong = (300000004, "e5", 54.4) }
             };
 
             for (int index = 0; index < tablesLong.Length; index++)
