@@ -1,11 +1,11 @@
 ﻿namespace TuplesTest
 {
-    public struct Table
+    struct Table
     {
         public (int id, string name, double price) table;
     }
 
-    public struct TableLong
+    struct TableLong
     {
         public (long id, string name, double price) tableLong;
     }
