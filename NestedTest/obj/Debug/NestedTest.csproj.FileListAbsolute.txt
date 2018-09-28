@@ -1,0 +1,7 @@
+D:\C#\Training.NET\NestedTest\bin\Debug\NestedTest.exe.config
+D:\C#\Training.NET\NestedTest\bin\Debug\NestedTest.exe
+D:\C#\Training.NET\NestedTest\bin\Debug\NestedTest.pdb
+D:\C#\Training.NET\NestedTest\obj\Debug\NestedTest.csprojAssemblyReference.cache
+D:\C#\Training.NET\NestedTest\obj\Debug\NestedTest.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\NestedTest\obj\Debug\NestedTest.exe
+D:\C#\Training.NET\NestedTest\obj\Debug\NestedTest.pdb

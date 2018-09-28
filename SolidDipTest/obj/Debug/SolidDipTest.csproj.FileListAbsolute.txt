@@ -1,0 +1,7 @@
+D:\C#\Training.NET\SolidDipTest\bin\Debug\SolidDipTest.exe.config
+D:\C#\Training.NET\SolidDipTest\bin\Debug\SolidDipTest.exe
+D:\C#\Training.NET\SolidDipTest\bin\Debug\SolidDipTest.pdb
+D:\C#\Training.NET\SolidDipTest\obj\Debug\SolidDipTest.csprojAssemblyReference.cache
+D:\C#\Training.NET\SolidDipTest\obj\Debug\SolidDipTest.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\SolidDipTest\obj\Debug\SolidDipTest.exe
+D:\C#\Training.NET\SolidDipTest\obj\Debug\SolidDipTest.pdb

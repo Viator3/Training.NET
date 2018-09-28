@@ -1,0 +1,7 @@
+D:\C#\Training.NET\PartialTest\bin\Debug\PartialTest.exe.config
+D:\C#\Training.NET\PartialTest\bin\Debug\PartialTest.exe
+D:\C#\Training.NET\PartialTest\bin\Debug\PartialTest.pdb
+D:\C#\Training.NET\PartialTest\obj\Debug\PartialTest.csprojAssemblyReference.cache
+D:\C#\Training.NET\PartialTest\obj\Debug\PartialTest.csproj.CoreCompileInputs.cache
+D:\C#\Training.NET\PartialTest\obj\Debug\PartialTest.exe
+D:\C#\Training.NET\PartialTest\obj\Debug\PartialTest.pdb
